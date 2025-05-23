@@ -1,0 +1,407 @@
+[
+  {
+    "_id": "Guerrero",
+    "Estado": "Guerrero",
+    "count": 2495
+  },
+  {
+    "_id": "AGUASCALIENTES",
+    "Estado": "AGUASCALIENTES",
+    "count": 5
+  },
+  {
+    "_id": "Baja California",
+    "Estado": "Baja California",
+    "count": 2286
+  },
+  {
+    "_id": "San Pablo Oztotepec",
+    "Estado": "San Pablo Oztotepec",
+    "count": 6
+  },
+  {
+    "_id": "Jalisco",
+    "Estado": "Jalisco",
+    "count": 4185
+  },
+  {
+    "_id": "San Miguel Topilejo",
+    "Estado": "San Miguel Topilejo",
+    "count": 1
+  },
+  {
+    "_id": "Zacatecas",
+    "Estado": "Zacatecas",
+    "count": 570
+  },
+  {
+    "_id": "San Andrés Mixquic",
+    "Estado": "San Andrés Mixquic",
+    "count": 12
+  },
+  {
+    "_id": "Estado de México",
+    "Estado": "Estado de México",
+    "count": 14010
+  },
+  {
+    "_id": "Mexico City",
+    "Estado": "Mexico City",
+    "count": 19
+  },
+  {
+    "_id": "VERACRUZ",
+    "Estado": "VERACRUZ",
+    "count": 38
+  },
+  {
+    "_id": "BAJA CALIFORNIA",
+    "Estado": "BAJA CALIFORNIA",
+    "count": 21
+  },
+  {
+    "_id": "SAN LUIS POTOSI",
+    "Estado": "SAN LUIS POTOSI",
+    "count": 4
+  },
+  {
+    "_id": "Michoacán",
+    "Estado": "Michoacán",
+    "count": 3446
+  },
+  {
+    "_id": "TLAXCALA",
+    "Estado": "TLAXCALA",
+    "count": 34
+  },
+  {
+    "_id": "Sonora",
+    "Estado": "Sonora",
+    "count": 2314
+  },
+  {
+    "_id": "Tabasco",
+    "Estado": "Tabasco",
+    "count": 1792
+  },
+  {
+    "_id": "HIDALGO",
+    "Estado": "HIDALGO",
+    "count": 43
+  },
+  {
+    "_id": "SONORA",
+    "Estado": "SONORA",
+    "count": 4
+  },
+  {
+    "_id": "Sinaloa",
+    "Estado": "Sinaloa",
+    "count": 1274
+  },
+  {
+    "_id": "Nuevo León",
+    "Estado": "Nuevo León",
+    "count": 1731
+  },
+  {
+    "_id": "NAYARIT",
+    "Estado": "NAYARIT",
+    "count": 1
+  },
+  {
+    "_id": "COLIMA",
+    "Estado": "COLIMA",
+    "count": 4
+  },
+  {
+    "_id": "CHIAPAS",
+    "Estado": "CHIAPAS",
+    "count": 12
+  },
+  {
+    "_id": "Hidalgo",
+    "Estado": "Hidalgo",
+    "count": 2218
+  },
+  {
+    "_id": "Santa Ana Tlacotenco",
+    "Estado": "Santa Ana Tlacotenco",
+    "count": 6
+  },
+  {
+    "_id": "Querétaro",
+    "Estado": "Querétaro",
+    "count": 1189
+  },
+  {
+    "_id": "Nayarit",
+    "Estado": "Nayarit",
+    "count": 796
+  },
+  {
+    "_id": "SINALOA",
+    "Estado": "SINALOA",
+    "count": 1
+  },
+  {
+    "_id": "COAHUILA DE ZARAGOZA",
+    "Estado": "COAHUILA DE ZARAGOZA",
+    "count": 3
+  },
+  {
+    "_id": "Aguascalientes",
+    "Estado": "Aguascalientes",
+    "count": 1044
+  },
+  {
+    "_id": "MORELOS",
+    "Estado": "MORELOS",
+    "count": 35
+  },
+  {
+    "_id": "YUCATAN",
+    "Estado": "YUCATAN",
+    "count": 4
+  },
+  {
+    "_id": "Acopilco",
+    "Estado": "Acopilco",
+    "count": 14
+  },
+  {
+    "_id": "Chiapas",
+    "Estado": "Chiapas",
+    "count": 3278
+  },
+  {
+    "_id": "TAMAULIPAS",
+    "Estado": "TAMAULIPAS",
+    "count": 9
+  },
+  {
+    "_id": "CAMPECHE",
+    "Estado": "CAMPECHE",
+    "count": 14
+  },
+  {
+    "_id": "Ciudad de México",
+    "Estado": "Ciudad de México",
+    "count": 6885
+  },
+  {
+    "_id": "Yucatán",
+    "Estado": "Yucatán",
+    "count": 1290
+  },
+  {
+    "_id": "Guanajuato",
+    "Estado": "Guanajuato",
+    "count": 3972
+  },
+  {
+    "_id": "Luisiana",
+    "Estado": "Luisiana",
+    "count": 1
+  },
+  {
+    "_id": "TABASCO",
+    "Estado": "TABASCO",
+    "count": 19
+  },
+  {
+    "_id": "Villa Milpa Alta",
+    "Estado": "Villa Milpa Alta",
+    "count": 7
+  },
+  {
+    "_id": "San Miguel Ajusco",
+    "Estado": "San Miguel Ajusco",
+    "count": 33
+  },
+  {
+    "_id": "San Antonio Tecómitl",
+    "Estado": "San Antonio Tecómitl",
+    "count": 59
+  },
+  {
+    "_id": "Puebla",
+    "Estado": "Puebla",
+    "count": 4574
+  },
+  {
+    "_id": "Tamaulipas",
+    "Estado": "Tamaulipas",
+    "count": 1848
+  },
+  {
+    "_id": "San Luis Potosí",
+    "Estado": "San Luis Potosí",
+    "count": 1698
+  },
+  {
+    "_id": "Santa Catarina Yecahuitzotl",
+    "Estado": "Santa Catarina Yecahuitzotl",
+    "count": 8
+  },
+  {
+    "_id": "San Nicolás Tetelco",
+    "Estado": "San Nicolás Tetelco",
+    "count": 16
+  },
+  {
+    "_id": "San Lorenzo Tlacoyucan",
+    "Estado": "San Lorenzo Tlacoyucan",
+    "count": 2
+  },
+  {
+    "_id": "NUEVO LEON",
+    "Estado": "NUEVO LEON",
+    "count": 9
+  },
+  {
+    "_id": "El Capulín",
+    "Estado": "El Capulín",
+    "count": 8
+  },
+  {
+    "_id": "CHIHUAHUA",
+    "Estado": "CHIHUAHUA",
+    "count": 7
+  },
+  {
+    "_id": "BAJA CALIFORNIA SUR",
+    "Estado": "BAJA CALIFORNIA SUR",
+    "count": 3
+  },
+  {
+    "_id": "San Francisco Tecoxpa",
+    "Estado": "San Francisco Tecoxpa",
+    "count": 23
+  },
+  {
+    "_id": "Texas",
+    "Estado": "Texas",
+    "count": 4
+  },
+  {
+    "_id": "DISTRITO FEDERAL",
+    "Estado": "DISTRITO FEDERAL",
+    "count": 1198
+  },
+  {
+    "_id": "Tlaxcala",
+    "Estado": "Tlaxcala",
+    "count": 1029
+  },
+  {
+    "_id": "Oaxaca",
+    "Estado": "Oaxaca",
+    "count": 2640
+  },
+  {
+    "_id": "PUEBLA",
+    "Estado": "PUEBLA",
+    "count": 419
+  },
+  {
+    "_id": "OAXACA",
+    "Estado": "OAXACA",
+    "count": 4
+  },
+  {
+    "_id": "MEXICO",
+    "Estado": "MEXICO",
+    "count": 1264
+  },
+  {
+    "_id": "MICHOACAN DE OCAMPO",
+    "Estado": "MICHOACAN DE OCAMPO",
+    "count": 29
+  },
+  {
+    "_id": "Coahuila de Zaragoza",
+    "Estado": "Coahuila de Zaragoza",
+    "count": 2339
+  },
+  {
+    "_id": "GUANAJUATO",
+    "Estado": "GUANAJUATO",
+    "count": 12
+  },
+  {
+    "_id": "Quintana Roo",
+    "Estado": "Quintana Roo",
+    "count": 1602
+  },
+  {
+    "_id": "Veracruz",
+    "Estado": "Veracruz",
+    "count": 6792
+  },
+  {
+    "_id": "Campeche",
+    "Estado": "Campeche",
+    "count": 1171
+  },
+  {
+    "_id": "GUERRERO",
+    "Estado": "GUERRERO",
+    "count": 10
+  },
+  {
+    "_id": "Baja California Sur",
+    "Estado": "Baja California Sur",
+    "count": 571
+  },
+  {
+    "_id": "Peña Alta",
+    "Estado": "Peña Alta",
+    "count": 6
+  },
+  {
+    "_id": "DURANGO",
+    "Estado": "DURANGO",
+    "count": 6
+  },
+  {
+    "_id": "Durango",
+    "Estado": "Durango",
+    "count": 1123
+  },
+  {
+    "_id": "Alabama",
+    "Estado": "Alabama",
+    "count": 3
+  },
+  {
+    "_id": "San Bartolomé Xicomulco",
+    "Estado": "San Bartolomé Xicomulco",
+    "count": 2
+  },
+  {
+    "_id": "Colima",
+    "Estado": "Colima",
+    "count": 531
+  },
+  {
+    "_id": "Chihuahua",
+    "Estado": "Chihuahua",
+    "count": 2251
+  },
+  {
+    "_id": "San Juan Ixtayopan",
+    "Estado": "San Juan Ixtayopan",
+    "count": 11
+  },
+  {
+    "_id": "Morelos",
+    "Estado": "Morelos",
+    "count": 2112
+  },
+  {
+    "_id": "JALISCO",
+    "Estado": "JALISCO",
+    "count": 39
+  }
+]
